@@ -1,0 +1,5 @@
+Solves the lift and pressure coefficients for NACA0012 airfoil using the panel method.
+
+The additional files are experimental data for comparison.
+
+See the raportti/H4 for more details on how the solver works!

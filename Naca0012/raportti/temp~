@@ -1,0 +1,4 @@
+\lstset{ %
+language=Python,         
+basicstyle=\footnotesize    % the size of the fonts that are used for the line-numbers
+}

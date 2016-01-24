@@ -1,0 +1,8 @@
+A simple rush simulation based on [1]. 
+Requires pyGame to be installed to work.
+Run the 'ruuhkasimulation.py' with python3 to visualize the simulation!
+
+
+
+
+1:   http://www.red3d.com/cwr/steer/

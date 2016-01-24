@@ -1,0 +1,19 @@
+     0.00000 |  1.  u(m/s) initial speed given in input
+     0.00000 |  2.  v(m/s)
+     0.00000 |  3.  w(m/s)
+     0.00000 |  4.  p(rad/s)
+     0.00000 |  5.  q(rad/s)
+     0.00000 |  6.  r(rad/s)
+     0.00000 |  7.  x(m)
+     0.00000 |  8.  y(m)
+     0.00000 |  9.  z(m)	initial heave
+     0.00000 | 10. phi(rad)	initial heel
+     0.00000 | 11. theta(rad)	initial trim
+     0.00000 | 12. psi(rad)
+     0.00000 | 13. delta(rad)
+     0.00000 | 14. dphi_1(rad/s) water angle rate of change in room
+     0.00000 | 15. phi_1(rad)	water angle with respect to ship in room
+     0.00252 | 16. Vol_1(m^3)	volume of the water in room
+     0.00000 | 17. dphi_2(rad/s) water angle rate of change in room
+     0.00000 | 18. phi_2(rad)	water angle with respect to ship in room
+     0.00252 | 19. Vol_2(m^3)	volume of the water in room

@@ -1,0 +1,2 @@
+A 2D diffusion equation solver with comparison to the analytical solution.
+Different boundary conditions can be applied in the boundary()-function.

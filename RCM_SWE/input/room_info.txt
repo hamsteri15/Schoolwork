@@ -1,0 +1,15 @@
+        2 | number of rooms
+   0.0000 | x_1(m)   longitudinal location of room center in ship coords
+  -0.1975 | y_1(m)   transverse location of room center in ship coords
+   0.0000 | z_1(m)   location of room bottom in ship coords
+   0.3350 | l_1(m)   room lenght
+   0.3850 | b_1(m)   room breadth
+   0.6000 | h_1(m)   room height
+      700 |      JMAX
+   0.0000 | x_2(m)   longitudinal location of room center in ship coords
+   0.1975 | y_2(m)   transverse location of room center in ship coords
+   0.0000 | z_2(m)   location of room bottom in ship coords
+   0.3350 | l_2(m)   room lenght
+   0.3850 | b_2(m)   room breadth
+   0.6000 | h_2(m)   room height
+      700 |      JMAX

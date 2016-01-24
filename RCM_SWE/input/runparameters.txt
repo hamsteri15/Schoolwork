@@ -1,0 +1,16 @@
+    41.89 |  1. totaltime(s)
+ 0.450000 |  2. max Co
+    991.2 |  3. rho(kg/m^3)
+    9.807 |  4. g(m/s^2)
+        2 |  5. box-movements: 1-stationary, 2-sway motion, 3-roll motion
+   0.3800 |  6. amplitude, sway(m) or roll(rad)
+     1.50 |  7. frequency(rad/s)
+        0 |  8. extra option
+     1.00 | 9. position change due to inflow
+     1.00 | 10. inflow momentum flux
+     1.00 | 11. dropping flow model 
+     1.00 | 12. impact friction factor 
+     1.00 | 13. phi_critical (deg)
+   0.1000 | 14. output interval.
+        1 | 15. 0-no inclining experiment, 1-perform inclining experiment for free ship
+        a | output file extension

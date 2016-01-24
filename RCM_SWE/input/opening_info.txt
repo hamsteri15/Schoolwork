@@ -1,0 +1,4 @@
+        1 | n_opening   number of openings
+
+from 	to	type	type 1:area(m^2)	type 2:b_o(m),h_o(m)
+1       2       1       0.0017                0.0       0.0           0.0000      0.0000      0.0025   0   -1   0   0.7690
